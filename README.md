@@ -1,6 +1,3 @@
-Here is a well-structured `README.md` for your project in English:
-
-markdown
 # Activation Functions for Neural Networks
 
 This repository provides implementations and visualizations of commonly used activation functions in neural networks. These functions are essential in deep learning as they introduce non-linearity to the model and help it learn complex patterns.
