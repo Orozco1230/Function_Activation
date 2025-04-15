@@ -59,7 +59,7 @@ pip install numpy matplotlib
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/LorenzoBlas/activate_functions.git
+   git clone https://github.com/Orozco1230/activate_functions.git
    ```
 
 2. Navigate to the project directory:
